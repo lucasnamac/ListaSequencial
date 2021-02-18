@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"ListSequencial.h"
+#include"ListaSequencial.h"
+
 #define MAX 10
 
 struct lista{

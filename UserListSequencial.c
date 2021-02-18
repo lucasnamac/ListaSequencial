@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include"ListSequencial.h"
+#include"ListaSequencial.h"
 
 int main(){
     int opcao, num, remove, qtd, menos, tam;
