@@ -1,7 +1,7 @@
 # ListaSequencial
 Implementação de um lista sequencial.
 
-![screenshot](/home/lucas/Documentos/Meus Projetos/ListaSequencial/data/scrennshot/menu.png)
+![screenshot](https://github.com/lucasnamac/ListaSequencial/blob/main/data/scrennshot/menu.png)
 
 
 
